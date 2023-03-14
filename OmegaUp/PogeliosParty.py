@@ -15,8 +15,6 @@ A single integer, the maximum amount of friends he can invite, so that Pogelio a
 
 """
 
-
-
 [n,k]=[int(x) for x in input().split(' ')]
 arreglo=[int(x) for x in input().split(' ')]
 
